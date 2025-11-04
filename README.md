@@ -13,3 +13,12 @@ Welcome to my GitHub profile! I love building modern, responsive, and user-frien
 - 🧩 Fun fact: I enjoy solving problems with creative design and logical thinking
 
 ---
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML • CSS • JavaScript • ReactJs • Tailwind CSS  
+**Backend:** Node.js • Express.js  
+**Database:** MongoDB • MySQL  
+**Tools & Platforms:** Git • GitHub • VS Code • Postman  
+
+---
