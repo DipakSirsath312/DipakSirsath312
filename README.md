@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Dipak Sirsath
 
-🎯 **Frontend Developer | Open Source Enthusiast | Lifelong Learner**
+🎯 **Frontend Developer | Lifelong Learner**
 
 Welcome to my GitHub profile! I love building modern, responsive, and user-friendly web applications.
+
+---
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **JavaScript,ReactJs,and Nodejs**
+- 🤝 Open to collaborating on **open-source projects**
+- 🧩 Fun fact: I enjoy solving problems with creative design and logical thinking
 
 ---
