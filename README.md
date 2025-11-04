@@ -1,10 +1,7 @@
-Hi there👋
-- 👋 Hi, I’m DipakSirsath
-- 🌱 I’m learning Web development...
-- ⚡ Fun fact: Everyday Enjoy and New Skill Development...
-  
+# 👋 Hi, I'm Dipak Sirsath
 
-<!---
-DipakSirsath312/DipakSirsath312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Frontend Developer | Open Source Enthusiast | Lifelong Learner**
+
+Welcome to my GitHub profile! I love building modern, responsive, and user-friendly web applications.
+
+---
