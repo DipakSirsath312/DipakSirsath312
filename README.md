@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I love building modern, responsive, and user-frien
 
 ## 📊 GitHub Stats
 ![Dipak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipakSirsath312&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipakSirsath312&layout=compact&theme=radical)
 
 ---
