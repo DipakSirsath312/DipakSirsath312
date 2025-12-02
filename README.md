@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I love building modern, responsive, and user-frien
 
 ## 📫 Connect with Me
 - 📧 **dipaksirsath312@gmail.com**
-
+- **https://www.linkedin.com/in/dipak-sirsath-44aa48288/**
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
