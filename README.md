@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dipak Sirsath
 
 # 💫 About Me:
-🚀 About Me<br>🌱 I’m currently learning JavaScript,ReactJs,and Nodejs<br>🤝 Open to collaborating on open-source projects<br>🧩 Fun fact: I enjoy solving problems with creative design and logical thinking
+<br>🌱 I’m currently learning JavaScript,ReactJs,and Nodejs<br>🤝 Open to collaborating on open-source projects<br>🧩 Fun fact: I enjoy solving problems with creative design and logical thinking
 
 
 ## 🌐 Socials:
